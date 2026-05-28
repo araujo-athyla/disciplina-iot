@@ -1,22 +1,11 @@
 /* Altera o fundo de toda a página */
 body {
     background-color: #008000; /* cor de fundo verde */
-    color: #FFFF00;            /* cor da fonte */
+    color: #FFFF00;            /* cor da fonte amarela */
     font-family: Arial, sans-serif; /* Altera a fonte para um visual limpo */
-}
-
-/* Exemplo de estilização de um título (h1) */
-h1 {
-    color: #4CAF50; /* Cor verde para destacar o título */
 }
 
 /* Exemplo de estilização de parágrafos */
 p {
-    line-height: 1.6; /* Melhora a leitura espaçando as linhas */
-}
-
-/* Exemplo de estilização de um link */
-a {
-    color: #ff9800; /* Cor laranja para links */
-    text-decoration: none; /* Remove o sublinhado padrão do link */
+    line-height: 1.6; /* espaçamento entre as linhas */
 }
